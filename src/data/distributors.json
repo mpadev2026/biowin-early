@@ -1,0 +1,82 @@
+[
+  {
+    "id": "dist-001",
+    "name": "PT Mitra Teknik Abadi",
+    "city": "Jakarta Utara",
+    "region": "Jakarta",
+    "address": "Jl. Industri Raya No. 45, Kawasan Industri Sunter, Jakarta Utara 14350",
+    "phone": "+62215551234",
+    "whatsapp": "6281211234567",
+    "email": "sales@mitrateknikabadi.co.id"
+  },
+  {
+    "id": "dist-002",
+    "name": "CV Karya Mandiri Sentosa",
+    "city": "Jakarta Barat",
+    "region": "Jakarta",
+    "address": "Jl. Daan Mogot KM 14 No. 88, Cengkareng, Jakarta Barat 11730",
+    "phone": "+62215559876",
+    "whatsapp": "6281298765432",
+    "email": "info@karyamandirijkt.com"
+  },
+  {
+    "id": "dist-003",
+    "name": "PT Sumber Kimia Nusantara",
+    "city": "Bandung",
+    "region": "West Java",
+    "address": "Jl. Soekarno Hatta No. 225, Batununggal, Bandung 40274",
+    "phone": "+62222034567",
+    "whatsapp": "6281234567890",
+    "email": "sales@sumberkimia-bdg.co.id"
+  },
+  {
+    "id": "dist-004",
+    "name": "UD Tekindo Jaya",
+    "city": "Bekasi",
+    "region": "West Java",
+    "address": "Jl. Raya Narogong KM 8 No. 12, Kawasan Industri MM2100, Bekasi 17520",
+    "phone": "+62218801234",
+    "whatsapp": "6281387654321",
+    "email": "order@tekindojaya.com"
+  },
+  {
+    "id": "dist-005",
+    "name": "PT Graha Kimia Sejahtera",
+    "city": "Karawang",
+    "region": "West Java",
+    "address": "Jl. Surya Utama Kav. L-10, Kawasan Industri KIIC, Karawang 41361",
+    "phone": "+62264300567",
+    "whatsapp": "6281512345678",
+    "email": "contact@grahakimia.co.id"
+  },
+  {
+    "id": "dist-006",
+    "name": "CV Indo Sarana Teknik",
+    "city": "Surabaya",
+    "region": "East Java",
+    "address": "Jl. Rungkut Industri Raya No. 67, SIER, Surabaya 60293",
+    "phone": "+62315991234",
+    "whatsapp": "6281623456789",
+    "email": "sales@indosaranateknik.co.id"
+  },
+  {
+    "id": "dist-007",
+    "name": "PT Maxindo Abadi Sejahtera",
+    "city": "Gresik",
+    "region": "East Java",
+    "address": "Jl. Gubernur Suryo No. 34, Kawasan Industri Gresik, Gresik 61122",
+    "phone": "+62317891234",
+    "whatsapp": "6281734567890",
+    "email": "info@maxindogresik.com"
+  },
+  {
+    "id": "dist-008",
+    "name": "CV Teknik Prima Mandiri",
+    "city": "Sidoarjo",
+    "region": "East Java",
+    "address": "Jl. Raya Berbek Industri I No. 19, Kawasan SIER Berbek, Sidoarjo 61253",
+    "phone": "+62318556789",
+    "whatsapp": "6281845678901",
+    "email": "order@teknikprima-sda.com"
+  }
+]

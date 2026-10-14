@@ -1,0 +1,238 @@
+[
+  {
+    "id": "prod-001",
+    "slug": "industrial-degreaser-pro",
+    "name": "Industrial Degreaser Pro",
+    "category": "Cleaning",
+    "shortDescription": "Heavy-duty degreaser formulated for removing stubborn industrial grease and oil deposits.",
+    "fullDescription": "Industrial Degreaser Pro is a powerful, fast-acting alkaline cleaner specifically engineered for demanding industrial environments. Its advanced surfactant blend penetrates and lifts even the most stubborn grease, cutting oils, and carbonized deposits from metal, concrete, and painted surfaces. The biodegradable formula ensures effective cleaning while minimizing environmental impact, making it compliant with modern industrial safety standards.",
+    "benefits": [
+      "Removes 99% of industrial grease and cutting oils in a single application",
+      "Non-corrosive formula safe for metal, painted, and concrete surfaces",
+      "Biodegradable and environmentally responsible",
+      "Fast-acting — visible results within 5 minutes of contact",
+      "Concentrated formula reduces per-application cost"
+    ],
+    "usageInstructions": "Dilute 1:10 with water for general cleaning or use undiluted for heavy deposits. Apply to surface using a spray bottle, brush, or foam applicator. Allow 5–10 minutes of contact time. Agitate with a brush if needed, then rinse thoroughly with clean water. For heavily soiled surfaces, a second application may be required.",
+    "specifications": [
+      { "label": "pH Level", "value": "8.5 – 9.0" },
+      { "label": "Coverage", "value": "50 m² per liter (diluted 1:10)" },
+      { "label": "Pack Size", "value": "5 L, 20 L, 200 L" },
+      { "label": "Shelf Life", "value": "24 months from manufacturing date" }
+    ],
+    "documents": [
+      { "name": "Safety Data Sheet (SDS)", "url": "/documents/industrial-degreaser-pro-sds.pdf" }
+    ],
+    "faq": [
+      {
+        "question": "Is it safe for painted surfaces?",
+        "answer": "Yes, when diluted as directed (1:10 with water). Undiluted use on painted surfaces should be tested in an inconspicuous area first."
+      },
+      {
+        "question": "Can it be used in a parts washer?",
+        "answer": "Yes, it is compatible with most aqueous parts washers. Use at a dilution of 1:20 and maintain bath temperature at 40–60 °C for best results."
+      },
+      {
+        "question": "Is it safe to dispose of down the drain?",
+        "answer": "When properly diluted, the formula meets biodegradability standards. Always comply with local wastewater regulations before disposal."
+      }
+    ],
+    "relatedProductSlugs": ["surface-cleaner-plus", "rust-inhibitor-shield"],
+    "imagePlaceholder": "https://placehold.co/600x400?text=Industrial+Degreaser+Pro",
+    "featured": true
+  },
+  {
+    "id": "prod-002",
+    "slug": "surface-cleaner-plus",
+    "name": "Surface Cleaner Plus",
+    "category": "Cleaning",
+    "shortDescription": "Multi-surface industrial cleaner for floors, walls, and equipment exteriors.",
+    "fullDescription": "Surface Cleaner Plus is a versatile, neutral-pH cleaner designed for routine maintenance cleaning across manufacturing facilities, warehouses, and commercial spaces. It effectively removes dust, light oils, fingerprints, and general grime from a wide range of surfaces including sealed concrete, tiles, stainless steel, and painted equipment. Its streak-free formula leaves surfaces clean and residue-free, reducing re-soiling and maintaining a professional appearance.",
+    "benefits": [
+      "Neutral pH — safe for all sealed surfaces including stainless steel and tiles",
+      "Streak-free finish for professional-grade results",
+      "Low-foam formula suitable for auto-scrubber machines",
+      "Pleasant citrus fragrance for improved working environment",
+      "Highly concentrated — one 5 L container yields up to 500 L of solution"
+    ],
+    "usageInstructions": "Dilute 10 mL per liter of water for routine cleaning. Apply with mop, cloth, or auto-scrubber. No rinsing required for diluted use. For stubborn marks, apply at a higher concentration and scrub with a non-abrasive pad.",
+    "specifications": [
+      { "label": "pH Level", "value": "6.5 – 7.5 (diluted)" },
+      { "label": "Dilution Ratio", "value": "1:100 to 1:50" },
+      { "label": "Pack Size", "value": "5 L, 20 L" },
+      { "label": "Fragrance", "value": "Citrus" }
+    ],
+    "documents": [
+      { "name": "Safety Data Sheet (SDS)", "url": "/documents/surface-cleaner-plus-sds.pdf" }
+    ],
+    "faq": [
+      {
+        "question": "Can it be used on natural stone floors?",
+        "answer": "Yes, the neutral pH makes it safe for natural stone such as marble and granite. Avoid highly acidic or alkaline alternatives on stone surfaces."
+      },
+      {
+        "question": "Is it suitable for food-contact surfaces?",
+        "answer": "Surface Cleaner Plus is not certified for direct food-contact surfaces. Use a food-grade cleaner for surfaces that come into direct contact with food."
+      }
+    ],
+    "relatedProductSlugs": ["industrial-degreaser-pro", "floor-protective-coating"],
+    "imagePlaceholder": "https://placehold.co/600x400?text=Surface+Cleaner+Plus",
+    "featured": false
+  },
+  {
+    "id": "prod-003",
+    "slug": "rust-inhibitor-shield",
+    "name": "Rust Inhibitor Shield",
+    "category": "Protection",
+    "shortDescription": "Long-lasting rust and corrosion inhibitor for metal surfaces and equipment.",
+    "fullDescription": "Rust Inhibitor Shield provides superior corrosion protection for ferrous and non-ferrous metals in industrial and marine environments. Applied as a thin, penetrating film, it displaces moisture, neutralizes existing surface oxidation, and forms a tenacious barrier against humidity, salt spray, and chemical exposure. Suitable for unpainted steel, cast iron, aluminium, and copper alloys. Widely used for protecting stored machinery, tooling, and structural steel during fabrication and transport.",
+    "benefits": [
+      "Protects against rust and corrosion for up to 12 months indoors",
+      "Penetrates existing surface rust to halt further oxidation",
+      "Water-displacing formula works even on damp surfaces",
+      "Non-staining, clear finish suitable for visible components",
+      "Compatible with most topcoat paints and coatings"
+    ],
+    "usageInstructions": "Clean and dry the surface as thoroughly as possible before application. Spray or brush on a thin, even coat. Allow 15–20 minutes for the film to cure before handling. For outdoor or marine applications, apply two coats with a 30-minute interval between coats. Reapply every 6–12 months depending on environmental exposure.",
+    "specifications": [
+      { "label": "Film Thickness", "value": "8–12 µm (dry)" },
+      { "label": "Coverage", "value": "10–12 m² per liter" },
+      { "label": "Pack Size", "value": "500 mL aerosol, 5 L, 20 L" },
+      { "label": "Temperature Range", "value": "-20 °C to +120 °C" }
+    ],
+    "documents": [
+      { "name": "Technical Data Sheet", "url": "/documents/rust-inhibitor-shield-tds.pdf" }
+    ],
+    "faq": [
+      {
+        "question": "Can I paint over Rust Inhibitor Shield?",
+        "answer": "Yes, most solvent-based and water-based topcoats can be applied over a cured film. Always test adhesion on a small area first and allow the inhibitor to fully cure (minimum 24 hours) before painting."
+      },
+      {
+        "question": "Does it work on already-rusted surfaces?",
+        "answer": "It will penetrate light surface rust and arrest further oxidation. For heavily corroded surfaces, mechanical cleaning (wire brushing or sandblasting) is recommended before application."
+      }
+    ],
+    "relatedProductSlugs": ["industrial-degreaser-pro", "equipment-lubricant-extreme"],
+    "imagePlaceholder": "https://placehold.co/600x400?text=Rust+Inhibitor+Shield",
+    "featured": true
+  },
+  {
+    "id": "prod-004",
+    "slug": "floor-protective-coating",
+    "name": "Floor Protective Coating",
+    "category": "Protection",
+    "shortDescription": "Heavy-duty epoxy-based floor coating for industrial and commercial environments.",
+    "fullDescription": "Floor Protective Coating is a two-component, water-borne epoxy system engineered to provide long-term protection and aesthetics to concrete and cementitious floors. It delivers excellent resistance to chemical spills, abrasion, impact, and forklift traffic. The self-leveling formulation ensures a smooth, seamless finish that is easy to clean and maintain. Available in multiple standard colors to support safety marking and zoning requirements.",
+    "benefits": [
+      "Exceptional chemical resistance to oils, fuels, and mild acids",
+      "High-abrasion resistance withstands forklift and heavy foot traffic",
+      "Self-leveling for a smooth, seamless, professional finish",
+      "Reduces concrete dust and simplifies routine floor maintenance",
+      "Available in multiple standard colors for safety zoning"
+    ],
+    "usageInstructions": "Prepare concrete substrate by diamond grinding or shot-blasting to achieve a CSP 2–3 profile. Mix Part A (resin) and Part B (hardener) at a 4:1 ratio by volume for 3 minutes. Apply with a notched squeegee followed by a foam roller at 150–200 µm wet film thickness. Allow 8 hours before foot traffic and 24 hours before vehicle traffic at 25 °C.",
+    "specifications": [
+      { "label": "Mixing Ratio", "value": "4:1 (Part A : Part B) by volume" },
+      { "label": "Wet Film Thickness", "value": "150–200 µm per coat" },
+      { "label": "Pack Size", "value": "5 L kit, 20 L kit" },
+      { "label": "Pot Life", "value": "45 minutes at 25 °C" }
+    ],
+    "documents": [
+      { "name": "Application Guide", "url": "/documents/floor-protective-coating-guide.pdf" }
+    ],
+    "faq": [
+      {
+        "question": "How many coats are required?",
+        "answer": "For most applications, one primer coat followed by two finish coats is recommended. High-traffic areas or chemically exposed floors may benefit from a third coat."
+      },
+      {
+        "question": "Can it be applied over existing paint or coatings?",
+        "answer": "Existing coatings must be fully removed before application. Any residue will compromise adhesion. Always conduct a pull-off adhesion test on prepared substrates."
+      },
+      {
+        "question": "What is the minimum application temperature?",
+        "answer": "Do not apply below 10 °C or when surface temperature is within 3 °C of the dew point. Cold temperatures significantly extend cure times."
+      }
+    ],
+    "relatedProductSlugs": ["surface-cleaner-plus", "rust-inhibitor-shield"],
+    "imagePlaceholder": "https://placehold.co/600x400?text=Floor+Protective+Coating",
+    "featured": true
+  },
+  {
+    "id": "prod-005",
+    "slug": "equipment-lubricant-extreme",
+    "name": "Equipment Lubricant Extreme",
+    "category": "Maintenance",
+    "shortDescription": "High-performance synthetic lubricant for heavy industrial machinery and equipment.",
+    "fullDescription": "Equipment Lubricant Extreme is a fully synthetic, multi-grade lubricant developed for the most demanding industrial machinery applications. Its advanced additive package provides outstanding extreme-pressure (EP) protection, thermal stability up to 220 °C, and exceptional oxidation resistance, extending drain intervals and reducing maintenance costs. Suitable for gearboxes, bearings, hydraulic systems, and compressors operating under high loads, elevated temperatures, or contaminated environments.",
+    "benefits": [
+      "Extreme-pressure (EP) additives prevent micro-welding under high loads",
+      "Synthetic base oil delivers superior thermal stability up to 220 °C",
+      "Extended drain intervals reduce downtime and maintenance costs",
+      "Excellent water-washout resistance for wet environments",
+      "Compatible with all common seal materials including NBR and FKM"
+    ],
+    "usageInstructions": "Drain existing lubricant and flush with a compatible flushing oil if switching from mineral-based products. Fill to the manufacturer's recommended level. Change intervals: every 4,000 operating hours or 12 months, whichever comes first. For heavily contaminated or high-moisture environments, shorten intervals accordingly.",
+    "specifications": [
+      { "label": "Viscosity Grade", "value": "ISO VG 220" },
+      { "label": "Operating Temperature", "value": "-20 °C to +220 °C" },
+      { "label": "Pack Size", "value": "1 L, 5 L, 20 L, 200 L" },
+      { "label": "Base Oil", "value": "Fully Synthetic PAO" }
+    ],
+    "documents": [
+      { "name": "Technical Data Sheet", "url": "/documents/equipment-lubricant-extreme-tds.pdf" }
+    ],
+    "faq": [
+      {
+        "question": "Is it compatible with mineral oil lubricants?",
+        "answer": "It can be mixed with mineral oils in an emergency, but this will reduce performance. A full drain and flush is strongly recommended when switching to Equipment Lubricant Extreme."
+      },
+      {
+        "question": "What equipment types is it suitable for?",
+        "answer": "It is designed for industrial gearboxes, roller and plain bearings, hydraulic systems, reciprocating and rotary compressors, and open gear systems."
+      }
+    ],
+    "relatedProductSlugs": ["rust-inhibitor-shield", "precision-maintenance-spray"],
+    "imagePlaceholder": "https://placehold.co/600x400?text=Equipment+Lubricant+Extreme",
+    "featured": false
+  },
+  {
+    "id": "prod-006",
+    "slug": "precision-maintenance-spray",
+    "name": "Precision Maintenance Spray",
+    "category": "Maintenance",
+    "shortDescription": "Multi-function aerosol spray for lubrication, moisture displacement, and light corrosion protection.",
+    "fullDescription": "Precision Maintenance Spray is an all-in-one aerosol solution engineered for maintenance technicians who need a reliable, fast-acting product for a wide variety of tasks. It penetrates seized fasteners, displaces moisture from electrical contacts, lubricates moving parts, and leaves a protective film against rust and corrosion. Its low-viscosity formula reaches tight clearances and concealed areas where conventional lubricants cannot easily penetrate.",
+    "benefits": [
+      "Penetrates and frees seized nuts, bolts, and fasteners quickly",
+      "Displaces moisture from electrical and electronic components safely",
+      "Provides lasting lubrication for chains, hinges, cables, and slides",
+      "Leaves a thin protective film guarding against rust for up to 6 months",
+      "Safe on most plastics, rubbers, and painted surfaces"
+    ],
+    "usageInstructions": "Shake can well before use. Hold can upright and spray 15–20 cm from the target surface. For penetrating stuck fasteners, apply and allow 5–10 minutes for the product to wick into threads before applying torque. For electrical components, ensure power is disconnected before application and allow to dry completely before restoring power.",
+    "specifications": [
+      { "label": "Propellant", "value": "CO₂ (non-flammable)" },
+      { "label": "Can Size", "value": "400 mL aerosol" },
+      { "label": "Operating Temperature", "value": "-30 °C to +150 °C" },
+      { "label": "Dielectric Strength", "value": "> 35 kV" }
+    ],
+    "documents": [
+      { "name": "Safety Data Sheet (SDS)", "url": "/documents/precision-maintenance-spray-sds.pdf" }
+    ],
+    "faq": [
+      {
+        "question": "Is it safe on rubber seals and O-rings?",
+        "answer": "Yes, it is tested and safe for use on common elastomers including NBR, EPDM, and neoprene. Avoid prolonged contact with soft PVC."
+      },
+      {
+        "question": "Can it be used on live electrical equipment?",
+        "answer": "No. Always disconnect power before applying to electrical or electronic components. Although the formula has a high dielectric strength, application to live systems is a safety hazard."
+      }
+    ],
+    "relatedProductSlugs": ["equipment-lubricant-extreme", "rust-inhibitor-shield"],
+    "imagePlaceholder": "https://placehold.co/600x400?text=Precision+Maintenance+Spray",
+    "featured": false
+  }
+]
